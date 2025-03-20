@@ -208,7 +208,7 @@ li a:hover {
 }
 
 .img-one {
-  background: url("1.png)";
+  background: url("1.png");
   background-position: center;
   background-size: cover;
 }
@@ -218,7 +218,7 @@ li a:hover {
   background-size: cover;
 }
 .img-three {
-  background: url("4.png)";
+  background: url("4.png");
   background-position: center;
   background-size: cover;
 }
